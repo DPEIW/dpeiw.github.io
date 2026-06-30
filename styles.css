@@ -6,10 +6,10 @@
 
 /* ── VARIABLES ── */
 :root {
-  --acid: #b0ff00;
-  --acid-dim: #7ab800;
+  --acid: #24ffed;
+  --acid-dim: #05aaad;
   --black: #050505;
-  --white: #f0f0ee;
+  --white: rgba(221, 255, 248, 0.986);
   --red: #ff2233;
   --blue: #0044ff;
   --blue-glow: #00aaff;
